@@ -1,2 +1,4 @@
 TV 200 5
+Kettie 20  2
+Laptop 80  6
 Fridge 150 24
